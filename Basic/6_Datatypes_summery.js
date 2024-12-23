@@ -32,3 +32,7 @@ const prof={
 const Idea = function (){
     console.log("Hello World");
 }
+// ++++++++++++++++++++++++++++++++++++ Memory +++++++++++++++++++++++++++++++++++++++++++++
+// 1. stack memory (Primitive)
+// 2. heap memory (Non primitive)
+

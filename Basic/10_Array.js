@@ -6,7 +6,7 @@ console.log(arr)
 // arr.pop()// remove last value
 // arr.unshift(1)// insert value 1st position
 // arr.shift()// remove value 1st postion
-// console.log(arr.includes(3))// find value
+console.log(arr.includes(3))// find value
 
 let arr1=arr.join() // convert to string
 
@@ -15,10 +15,3 @@ console.log("rajat " ,arr)
 
 //slice and splice
 // *************************************************
-arr.push(arrnum)
-console.log(arr)
-arr.concat(arrnum)
-console.log(arr)
-
-let newarr=[...arr,...arr1]
-console.log(newarr)

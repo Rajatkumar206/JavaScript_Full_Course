@@ -2,6 +2,8 @@ let arr=['Rajat','Rajnu','kunal','tanu', 'tanu']
 let arrnum=[1,2,3,4,5,6,7,8,9,0]
 console.log(arr)
 
+// array Methods
+
 // arr.push(6) // add value in last position
 // arr.pop()// remove last value
 // arr.unshift(1)// insert value 1st position
@@ -15,3 +17,4 @@ console.log("rajat " ,arr)
 
 //slice and splice
 // *************************************************
+

@@ -27,5 +27,9 @@ const heros=["shaktiman", "spiderman", "Batman"]
 arr.push(heros)
 // console.log(arr)
 // console.log(arr[3][1])
-arr.concat(heros)
-console.log(arr)
+// const hero1=arr.concat(heros);
+// console.log(hero1)
+
+// spred operator
+const all_heros=[...arr, ...heros]
+console.log(all_heros)
